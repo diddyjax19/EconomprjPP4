@@ -519,39 +519,39 @@ Below the general site statistics, the superuser can see three lists.
 
 <details><summary><b>Dashboard Lists</b></summary>
 
-![All Bookings](static/images/readme/dashboard-bookings.png)
+![All Users](static/screenshot/list-ofuser.png)
 
-![All Posts](static/images/readme/dashboard-posts.png)
+![All Products](static/screenshot/adding-product.png)
 
-![All Comments](static/images/readme/dashboard-comments.png) 
+![All CartOrder](static/screenshot/deleting-andedditingacategory.png) 
 
 </details><br/>
 
-In the bookings list, the superuser is shown all bookings made all site users including username, the Workshop Category, the Workshop date and time, and the number of places reserved. The superuser is also shown the approval Status of this booking depending on whether it has been approved yet. This approval status icon is also a toggle button, and can be clicked to approve or unapprove the booking. The icon will change according to the approval status, and an alert message will be shown to confirm the approval/unapproval success.
+In the deleting of product, the superuser is shown all orders made all site users including username, Password, Date of order,Payment status,shipping address and time, and the order was placed. The superuser is also shown the approval Status of this order depending on whether it has been approved yet. This approval status icon is also a toggle button, and can be clicked to approve or unapprove the booking. The icon will change according to the approval status, and an alert message will be shown to confirm the approval/unapproval success.
 
 In the posts list, the superuser is shown all posts information. The user is shown the Author, Title, Category, Date Posted, number of likes, number of comments and the approval status. This approval status icon is also a toggle button, and can be clicked to approve or unapprove the post. The icon will change according to the approval status, and an alert message will be shown to confirm the approval/unapproval success.
 
-In the comments list, the superuser is shown all comments written by all users. The superuser is shown the author, the post the comment was made on, the comment, the date the comment was made and the approval status. This approval status icon is also a toggle button, and can be clicked to approve or unapprove the comment. The icon will change according to the approval status, and an alert message will be shown to confirm the approval/unapproval success.
+The super  User has absolute control to verify delte and approve orders for shipping.
 
-All bookings, posts and comments have an 'Edit' button and a 'Delete' button next to them. 
+The delete process is very simple and easy to use. 
 
 <details><summary><b>Edit Bookings, Posts and Comments</b></summary>
 
-![Edit Booking](static/images/readme/admin-editbooking.png)
+![Edit Order](static/screenshot/edit-carorder.png)
 
-![Edit Post](static/images/readme/admin-editpost.png)
+![Edit Products](static/screenshot/edit-product.png)
 
-![Edit Comment](static/images/readme/admin-editcomment.png)
+![Edit User](static/screenshot/edit-user.png)
 
 </details><br/>
 
-<details><summary><b>Delete Bookings, Posts and Comments</b></summary>
+<details><summary><b>Delete Order, Products and User</b></summary>
 
-![Delete Booking](static/images/readme/admin-deletebooking.png)
+![Delete Orders](static/screenshot/delete-cartorder.png)
 
-![Delete Post](static/images/readme/admin-deletepost.png)
+![Delete Products](static/screenshot/delete-selectedProduct.png)
 
-![Delete Comment](static/images/readme/admin-deletecomment.png) 
+![Delete User](static/screenshot/delete-user.png) 
 
 </details><br/>
 
@@ -561,37 +561,46 @@ If a superuser clicks on the 'Delete' button, they are taken into a confirmation
 
 ### **Sign Up**
 
-Users who are new to the site, or haven't previously created an account can click on the Signup Menu option on the Navigation Bar to create a user account. I have used the standard AllAuth user model for the signup process and fields which appear. 
+Users who are new to the site, or haven't previously created an account can click on the Signup Menu option on the Navigation Bar to create a user account. 
 
-![Sign Up](static/images/readme/signup.png) 
+
+Signup Stage 1
+![Sign Up](static/screenshot/signin.png) 
+
+Signup Stage 2
+![Sign Up](static/screenshot/sign-up2.png) 
+
+Signup Stage 3
+![Sign Up](static/screenshot/signup.png) 
+
 
 ### **Sign In**
 
-If a user has a Craft Cafe account, they can click on the Login menu option in the Navigation Bar to login, and gain access to the additional areas of the website for Craft Cafe Community users. If they try to access areas which require a login, they are prompted to follow the links to login, or signup if they don't currently have an account. 
+If a user has a Nest website account, they can click on the Login menu option in the Navigation Bar to login, and gain access to the additional areas of the website for Craft Cafe Community users. If they try to access areas which require a login, they are prompted to follow the links to login, or signup if they don't currently have an account. 
 
-![Sign In](static/images/readme/sign-in.png) 
+![Sign In](static/screenshot/signin.png) 
 
 ### **Sign Out**
 
 If the user wishes to sign out, once signed in, the login menu option turns into a logout menu option for them to select. 
 
-![Sign Out](static/images/readme/sign-out.png) 
+![Sign Out](static/screenshot/signout.png) 
 
 ### **Footer**
 
 The site footer has three link elements. 
 
 1. My details as the site designer. If you click on the link, you are taken to my GitHub site.
-2. The Craft Cafe brand logo. If you click on the link, you are taken back to the top of the Homepage.
+2. The Nest Website brand logo. If you click on the link, you are taken back to the top of the Homepage.
 3. Social media links. I have included links to Facebook, Twitter and Instagram. These links simply go to the social media homepage, as this is a ficticious website and does not have any real social media accounts to connect to and follow. 
 
 These three elements are positioned respectively on the far left, center and far right of the screen. For mobile devices, they are all positioned in the center one above the other in three rows.
 
 <details><summary><b>Footer</b></summary>
 
-![Footer - Tablet and Desktop](static/images/readme/footer-desktop.png)
+![Footer - Tablet and Desktop](static/screenshot/footer-desktop.png)
 
-![Footer - Mobile](static/images/readme/footer-mobile.png)
+![Footer - Mobile](static/screenshot/footer-mobile.png)
 
 </details><br/>
 
