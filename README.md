@@ -85,8 +85,10 @@ Later on, during the build, I also used the Project Board to log and track bugs 
 
 ### Database Schema
 
+Data Schema
 ![Database Schema](static/screenshot/database.png)
 
+Site Map
 ![Site Map](static/screenshot/sitemap.png)
 
 # **User Experience (UX)**
@@ -270,46 +272,27 @@ If the user is a superuser, they have one additional menu item available.
 </details><br/>
 
 
-
-
-
-* Links that are visible to logged out users in the mega menu *
-
-* Browse Category - This link takes the user down the homepage to the 'Menu' section where lists of food and pricing can be found.
-* Category - This link takes the user down the homepage to the 'Menu' section where lists of food and pricing can be found.
-* Shop - This lists the afternoon craft workshop schedule, and a description and pricing for each activity.
-* Vendors - Directs non-community users to create an account.
-* Pages - Gives the user the opportunity to log in or sign up if not ready a registered user.
-* Contact - Gives the user the opportunity to contact or make enquires.
-* Contact number - Gives the user the opportunity to call the 24hrs support 
-
-
-
-
-
-
-
-
-
-
-
 ### **Hero Image**
 
-If you click on 'Home' from the navigation bar menu or on the brand logo found at the top and bottom of every page, you are redirected to the HomePage. The first thing you see is a full screen hero image of coffee and cakes and a large Jumbotron Title for The Craft Café. Below the Cafe Title is a description telling the user about it's unique selling points; Coffee, cake crafts and good company. From the hero callout, you can click directly to the workshops page where there is more information about the craft activites and the booking form for logged on users. 
+If you click on 'Home' from the navigation bar menu or on the brand logo found at the top and bottom of every page, you are redirected to the HomePage. The first thing you see is a full screen hero image of corn,cucumber and lemon with the discount advert for your first order,after some seconds it moves to the next hero image of Apples grapes and a Basket and a message that say you should join our Newsletter for The Nest Mart & Groceries. At the left hand side you can see the categories of the products that are offered on the Website.You can click immediately and start shopping but you will be restricted because only users with an accounnt and proceed to cart.
 
-![Hero Image](static/images/readme/hero-image.png)
+HERO IMAGE 1
+![Hero Image](static/screenshot/hero-image.png)
 
-### **Craft Cafe Menu**
+HERO IMAGE 2
+![Hero Image](static/screenshot/hero-image2.png)
 
-The menu is split into three sections. Food, Drinks, and Desserts. On a desktop device, all three menus are displayed alongside eachother in one row. For tablets, the Desserts section drops down into a centred second row, and for mobile devices, the three menus are displayed one at a time below eachother. Each menu has an accompanying image which fits in with the site colour palette and creative theme, and then the available food items and respective prices are shown in a list under each Menu heading. 
+### **The Nest Mart & Groceries Mega Menu**
+
+The menu is split into Seven sections. Browse All Categories, Home,Category,Shop,Vendors,Page and Contact.Then to the extreme right you have the tool free number to call. On a desktop device, all Seven mega  menus are displayed alongside eachother in one row. For tablets, the same thing as the desktop device, and for mobile devices, the three menus are displayed one at a time below eachother. Each menu has an accompanying image which fits in with the site colour palette and creative theme, and then the available food items and respective prices are shown in a list under each Menu heading. 
 
 <details><summary><b>Menu</b></summary>
 
-![Menu Desktop](static/images/readme/menu-desktop.png)
+![Menu Desktop](static/screenshot/desktop-viewmega.png)
 
-![Menu - Tablet](static/images/readme/menu-tablet.png)
+![Menu - Tablet](static/screenshot/tablet-viewofmega.png)
 
-![Menu - Mobile](static/images/readme/menu-mobile.png)
+![Menu - Mobile](static/screenshot/mobile-megaview.png)
 
 </details><br/>
 
