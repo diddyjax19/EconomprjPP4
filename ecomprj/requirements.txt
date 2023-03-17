@@ -7,9 +7,7 @@ Django==4.1.7
 django-bootstrap-datepicker-plus==5.0.3
 django-bootstrap4==22.3
 django-ckeditor==6.5.1
-django-cors-headers==3.14.0
 django-environ==0.10.0
-django-heroku==0.3.1
 django-jazzmin==2.6.0
 django-js-asset==2.0.0
 django-paypal==2.0
@@ -26,4 +24,3 @@ shortuuid==1.0.11
 sqlparse==0.4.3
 stripe==5.2.0
 tzdata==2022.7
-whitenoise==6.4.0
