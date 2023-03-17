@@ -328,15 +328,12 @@ In desktop view, the three reviews can be seen side by side in one row. In table
 
 </details><br/>
 
-### **Map**
+### **Sections**
 
-The final part of the homepage is the map section where users can find out the location, opening hours and contact details for the Craft Café.
+The Left part of the homepage is the section for categories of the Nest Website.
 
-The Craft Café does not exist, and therefore will not appear in satellite view if the user was to zoom in to the street marked by the address and marker pin. However, if I were to build this café in real life, this pinned highstreet, close to where I grew up,would be a perfect location for it, and so I have chosen to ficticiously pinpoint it's location there. 
 
-The map was created using the Google Maps API. 
-
-![Google Map](static/images/readme/map.png)
+![Sections](static/screenshot/Sectionspage.png)
 
 ### **Craft Workshops**
 
@@ -509,11 +506,12 @@ After editing or deleting, the user is redirected back to their profile page.
 ### **Admin Dashboard**
 
 Although all admin CRUD functionality can be accessed and managed through the superuser logon to the /admin page, I also decided to create a frontend admin page where superusers can see a general overview of how well the Craft Cafe website is performing and how much interaction it's getting with its community. Firstly, the superuser can see some website statistics:
-* Total number of bookings made through the site
-* Total number of posts made on the site
-* Total number of comments made on the site
+* Total number of Revenues
+* Total number of Monthly Earnings
+* Total number of Orders
+* Total number of Products
 
-![Site Statistics](static/images/readme/cafe-stats.png)
+![Site Statistics](static/screenshot/statistic-page.png)
 
 Below the general site statistics, the superuser can see three lists. 
 
