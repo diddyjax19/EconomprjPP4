@@ -9,7 +9,7 @@ This fictional site was created for Portfolio Project #4 (Full-Stack Toolkit) - 
 
 [View live website here](https://nextit12.herokuapp.com/)
 
-![Responsive design](ecomprj/media/screenshot/responsive-nest.png)
+![Responsive design](static/screenshot/responsive-nest.png)
 
 # Table of Content
 
@@ -85,7 +85,7 @@ Later on, during the build, I also used the Project Board to log and track bugs 
 
 ### Database Schema
 
-![Database Schema](ecomprj/media/screenshot/database.png)
+![Database Schema](static/screenshot/database.png)
 
 ![Site Map](ecomprj/media/screenshot/site_map.png)
 
