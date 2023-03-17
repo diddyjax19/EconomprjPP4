@@ -115,7 +115,6 @@ Here I have listed the main user stories for three types of user. A normal user 
 | As a Site User | I can edit a products so that it can be changed on the Nest Mart and Grocery Website | &check; | 
 | As a Site User | I can delete any of products so that it can be changed on the Nest Mart and Grocery Website | &check; | 
 | As a Site User | I can create a vendor account so that it can be Earn or advertise on the Nest Mart and Grocery Website | &check; | 
-
 | As a Site User | I can view Ratings of products so that it can be changed on the Nest Mart and Grocery Website. | &check; |
 | As a Site User | I can place and order for a product on Nest Website | &check; |
 | As a Site User | I can edit the quantity of the product in my Cart on Nest Website | &check; |
