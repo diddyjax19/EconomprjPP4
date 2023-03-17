@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-%o9!c3rf02q6usr!vw^s96^t*(dsv&ezbs)_u_k7^z1oa$ik0r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nestit.herokuapp.com', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -100,17 +100,6 @@ DATABASES = {
     }
 }
 
-
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#         'NAME': 'd24k9pnum9njkj',
-#         'USER': 'bcbklhuhyqcobo',
-#         'PASSWORD': '2e6e1c2960a76b3e4e55c0f6eec1df4b0d67eb177999b331fef668cb158795cb',
-#         'HOST': 'ec2-54-73-22-169.eu-west-1.compute.amazonaws.com',
-#         'PORT': '5432',
-#     }
-# }
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators

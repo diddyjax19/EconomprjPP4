@@ -523,7 +523,7 @@ Below the general site statistics, the superuser can see three lists.
 
 ![All Products](static/screenshot/adding-product.png)
 
-![All CartOrder](static/screenshot/deleting-andedditingacategory.png) 
+![All Category](static/screenshot/deleting-andedditingacategory.png) 
 
 </details><br/>
 

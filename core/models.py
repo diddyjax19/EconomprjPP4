@@ -191,16 +191,7 @@ class CartOrderProducts(models.Model):
         return mark_safe('<img src="/media/%s" width="50" height="50" />' % (self.image))
 
 
-
-
-############################################## Product Revew, wishlists, Address ##################################
-############################################## Product Revew, wishlists, Address ##################################
-############################################## Product Revew, wishlists, Address ##################################
-############################################## Product Revew, wishlists, Address ##################################
-
-
-
-
+# Product Review Model
 class ProductReview(models.Model):
     user = models.ForeignKey(User, on_delete=models.SET_NULL, null=True)
     product = models.ForeignKey(Product, on_delete=models.SET_NULL, null=True, related_name="reviews")
@@ -208,6 +199,7 @@ class ProductReview(models.Model):
     rating = models.IntegerField(choices=RATING, default=None)
     date = models.DateTimeField(auto_now_add=True)
 
+    
     class Meta:
         verbose_name_plural = "Product Reviews"
 
