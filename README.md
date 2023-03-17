@@ -153,7 +153,6 @@ Here I have listed the main user stories for three types of user. A normal user 
 | As a Super User | I can delete any posts so that I can remove unwanted posts from the Nest cafe and Grocery Website. | &check; |
 | As a Super User | I can approve Products so that they are published on the Nest cafe and Grocery Website.| &check; |
 | As a Super User | I can  verify and approve Vendors so that they can operate on the Nest cafe and Grocery Website.| &check; |
-
 | As a Super User | I can review ratings on a specific post so that I can see other user's opinions of the posts | &check; |
 | As a Super User | I can add comments on a specific post so that I can give my opinion on other user's posts | &check; |
 | As a Super User | I can edit any ratings made by other users so that I can amend any comments that are not deemed appropriate. | &check; |
