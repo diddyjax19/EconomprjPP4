@@ -87,7 +87,7 @@ Later on, during the build, I also used the Project Board to log and track bugs 
 
 ![Database Schema](static/screenshot/database.png)
 
-![Site Map](ecomprj/media/screenshot/site_map.png)
+![Site Map](static/screenshot/sitemap.png)
 
 # **User Experience (UX)**
 ## User Stories
@@ -170,7 +170,9 @@ Here I have listed the main user stories for three types of user. A normal user 
 
 ## Site Structure
 
-The Nest Website and Grocery Website is split up in three parts: **when the user is logged out**, **when the user is logged in** and **when Vendor is logged in.**. Depending on login status different pages are available for the user. When the user is logged out the pages: *Home*, *Menu*,*Wishlist*,*Cart* and *Account* are available from the Navigation Bar menu. When the user is logged in *Admin Dashboard*, *Profile page*, and *Order Tracking*,*My Wishlist* and *Settings* are available. If you are logged in as an administrator an *Admin* dashboard page is also available. The site is intuitive and prompts the user to sign in if they try to access areas which require a user profile.
+The Nest Website and Grocery Website is split up in three parts:
+ **when the user is logged out**, **when the user is logged in** and **when Vendor is logged in.**. 
+ Depending on login status different pages are available for the user. When the user is logged out the pages: *Home*, *Menu*,*Wishlist*,*Cart* and *Account* are available from the Navigation Bar menu. When the user is logged in *Admin Dashboard*, *Profile page*, and *Order Tracking*,*My Wishlist* and *Settings* are available. If you are logged in as an administrator an *Admin* dashboard page is also available. The site is intuitive and prompts the user to sign in if they try to access areas which require a user profile.
 
 Read more about the different choices in the [Features](<#features>) section.
 
@@ -182,7 +184,7 @@ Read more about the different choices in the [Features](<#features>) section.
 
 The color scheme chosen for the Nest Mart and Grocery site was based on the tones of the homepage hero background image. I was browsing for Nest site images that were light and bright.The background image I found has brightly coloured macaroons presented on a piece of decorated table cloth.  I used the online service [Canva](https://www.canva.com/colors/color-wheel/) to build a color palette for the site based on the tones in this photo.
 
-![Color Palette image](ecomprj/media/screenshot/color palete.png)
+![Color Palette image](static/screenshot/color-palete.png)
 
 * ### Typography
 
@@ -196,9 +198,9 @@ The main fonts used for the site are 'Quicksand' with a fallback font of cursive
 
 <details><summary><b>Fonts</b></summary>
 
-![ Google Fonts Quicksand ](/workspace/ecomprj1/ecomprj/media/screenshot/fonts.png)
+![ Google Fonts Quicksand ](static/screenshot/fonts.png)
 
-![Google Fonts Lato](/workspace/ecomprj1/ecomprj/media/screenshot/lato.font.png)
+![Google Fonts Lato](static/screenshot/lato-font.png)
 
 </details><br/>
 
@@ -231,9 +233,9 @@ The navigation bar is very clean and straight forward. Depending if you are logg
 
 <details><summary><b>Navigation - User Not Logged In</b></summary>
 
-![Navigation Large Device - User Not Logged In]( ecomprj/media/screenshot/navigation page.png )
+![Navigation Large Device - User Not Logged In](static/screenshot/navigation-page.png)
 
-![Navigation Small Device - User Not Logged In](static/images/readme/navbar-loggedout-mobile.png)
+![Navigation Small Device - User Not Logged In](static/screenshot/hompage-phone.png)
 
 
 </details><br/>
