@@ -251,9 +251,9 @@ Additional links which are available to logged in users are as follows:
 
 <details><summary><b>Navigation - User Logged In</b></summary>
 
-![Navigation Large Device - User Logged In](static/images/readme/navbar-loggedin.png)
+![Navigation Large Device - User Logged In](static/screenshot/sigin-proof.png)
 
-![Navigation Small Device - User Logged In](static/images/readme/navbar-loggedin-mobile.png)
+![Navigation Small Device - User Logged In](static/screenshot/phone-login.png)
 </details><br/>
 
 *Link that is visible if user is administrator*
@@ -264,9 +264,9 @@ If the user is a superuser, they have one additional menu item available.
 
 <details><summary><b>Navigation - Admin Logged In</b></summary>
 
-![Navigation Large - Admin Logged In](static/images/readme/navbar-loggedin-superuser.png)
+![Navigation Large - Admin Logged In](static/screenshot/phone-adminpage.png)
 
-![Navigation Small - Admin Logged In](static/images/readme/navbar-loggedin-superuser-mobile.png)
+![Navigation Small - Admin Logged In](static/screenshot/phone-login.png)
 </details><br/>
 
 
