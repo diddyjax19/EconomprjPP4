@@ -34,9 +34,9 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 SECRET_KEY = 'hy@@^j(ita$-q&1*1+gr!mje4_2cc!z4d8u8q8_z(y@2e(vm*1'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', 'diddy.pythonanywhere.com']
 
 EMAIL_HOST = 'localhost'
 EMAIL_PORT = 1025
